@@ -8,7 +8,7 @@
   height: 80px;
   padding: 5px;
   justify-content: space-between;
-  background-color:blanchedalmond;
+  background-color:rgb(209, 219, 238);
 }
 .header__logo{
   margin-top: 5px;
@@ -22,7 +22,7 @@
   margin-right: 100px
 }
 .header--login-list{
-  display: ;
+  margin-left: 50px;
 }
 
 
